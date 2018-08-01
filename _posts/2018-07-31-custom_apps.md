@@ -22,6 +22,7 @@ It’s going to take your developer 400 hours at a rate of $50 per hour, 30 hour
 This is a buy situation.
 
 **2. Easy to use**
+
 ServiceNow is going through a transformation of making internal IT tools as easy to use as consumer technologies.  
 
 When building apps on the platform, this is one of the most important things to remember.  A few quick tips to consider when building a custom app:
