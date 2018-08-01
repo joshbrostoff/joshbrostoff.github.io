@@ -9,7 +9,7 @@ Before you dive into your custom app development, I wanted to share some of my e
 
 **1. Build vs. Buy**
 
-The first piece of the equation is making a smart financial decision about application development.  Let’s say you need to build a simple marketing request application for end users to submit requests to the marketing department.
+The first piece of the equation is making a smart financial decision about application development.  Let’s say you need to build a simple application for end users to submit requests to the marketing department.
 
 You determine it is going to take 200 hours and you pay your ServiceNow developer $50 per hour.  You determine this will cost your organization $10K to develop and bring to market and an additional $5K per year in support and enhancement requests.  On the other hand, you explore other tools and the cheapest subscription-based model you can find is going to cost your organization $5K per year. 
 
@@ -17,14 +17,14 @@ This is a simple decision – its more cost effective to build this solution on 
 
 Now let’s explore another situation.  Your recruiting team needs a full circle recruiting application which has an integration with Microsoft Outlook, can schedule interviews and has an API integration with Workday.
 
-It’s going to take your developer 400 hours at a rate of $50 per hour plus 30 hours of support per week for the first 3 months.  You then determine you can buy an external tool with much better features for $2,500 per month.
+It’s going to take your developer 400 hours at a rate of $50 per hour, 30 hours of support per week for the first 3 months and 20 hours of enhancements per month.  You then determine you can buy an external tool with better out of box features for $2,500 per month.
 
 This is a buy situation.
 
 **2. Easy to use**
 ServiceNow is going through a transformation of making internal IT tools as easy to use as consumer technologies.  
 
-When building apps on the platform, this is one of the most important things to remember.  A few quick tips to consider when building a custom app.
+When building apps on the platform, this is one of the most important things to remember.  A few quick tips to consider when building a custom app:
 
 -	Minimize the number of fields on the form. If you have 30+ fields on the form, 10 related lists and 8 buttons on the banner, you’re doing something wrong.
 -	Less is more.  Try and take your IT hat off and think like an end user.  Even if your application can do everything and more, if it’s not easy to use, does it really matter?
@@ -34,7 +34,7 @@ When building apps on the platform, this is one of the most important things to 
 
 **3. Training**
 
-This is one of the biggest reasons I’ve seen apps fail.  If you end users don’t understand how something works, you’re never going to drive user adoption.  Even if what you’ve developed is perfect and automates a legacy process, no one is going to start using your tool if they don’t understand it.
+This is one of the biggest reasons I’ve seen apps fail.  If you end users don’t understand how something works, you’re never going to get user adoption.  Even if what you’ve developed is perfect and automates a legacy process, no one is going to start using your tool if they don’t understand it.
 
 In my experience, overtraining and documenting how to do things in your app can sometimes be more important than adding that one extra feature.
 
@@ -56,6 +56,6 @@ Luckily, the service portal can give your custom app the sexy front end it needs
 
 **5. You are the Expert, Act Like it**
 
-You are the ServiceNow admin/developer/architect at your organization for a reason, act like it!  When running your workshops or gathering requirements, don’t always lean on your stakeholders to drive requirements.
+You are the ServiceNow admin/developer/architect at your organization for a reason, act like it!  When running workshops or gathering requirements, don’t always lean on your stakeholders to drive requirements.
 
-You know the best practices in ServiceNow and how to build apps, and you should push back when you need to.  Simply saying “yes” to everything isn’t always the best approach.  
+You know the best practices in ServiceNow and how to build apps and you should push back when you need to.  Simply saying “yes” to everything isn’t always the best approach.  
