@@ -1,7 +1,6 @@
 
 ---
 title: "Building Successful Custom Apps in ServiceNow"
-
 ---
 
 I have built dozens of scoped apps in ServiceNow over the years.  Some of which have been wildly successful, while others have dwindled and ultimately failed.  As I look back on many of these, I have tried to answer the ultimate question: why do apps succeed or fail?
