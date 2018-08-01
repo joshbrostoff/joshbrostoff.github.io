@@ -8,7 +8,7 @@ I have built dozens of scoped apps in ServiceNow over the years.  Some of which 
 
 Before you dive into your custom app development, I wanted to share some of my experiences with you.
 
-1. Build vs. Buy
+**1. Build vs. Buy**
 
 The first piece of the equation is making a smart financial decision about application development.  Let’s say you need to build a simple marketing request application for end users to submit requests to the marketing department.
 
@@ -22,7 +22,7 @@ It’s going to take your developer 400 hours at a rate of $50 per hour plus 30 
 
 This is a buy situation.
 
-2. Easy to use
+**2. Easy to use**
 ServiceNow is going through a transformation of making internal IT tools as easy to use as consumer technologies.  
 
 When building apps on the platform, this is one of the most important things to remember.  A few quick tips to consider when building a custom app.
@@ -33,7 +33,7 @@ When building apps on the platform, this is one of the most important things to 
 -	Try and keep the number of modules along the application navigator to 10 or less
 -	Utilize a properties page
 
-3. Training
+**3. Training**
 
 This is one of the biggest reasons I’ve seen apps fail.  If you end users don’t understand how something works, you’re never going to drive user adoption.  Even if what you’ve developed is perfect and automates a legacy process, no one is going to start using your tool if they don’t understand it.
 
@@ -49,13 +49,13 @@ A few tips for how to train your end users on your custom app
 -	Follow up with your end users frequently the first 2 weeks to ensure a smooth go live.  Are they having issues? Do they have any questions?
 -	Check in on your app.  Are records being created? If not, follow up with your end user group to see what is going on. 
 
-4. Utilize the Service Portal
+**4. Utilize the Service Portal**
 
 People like things that are visually aesthetic.  Unfortunately, a lot of people aren’t crazy about the “fulfiller” view in ServiceNow.  It can be a lot to look at and isn’t the prettiest.
 
 Luckily, the service portal can give your custom app the sexy front end it needs.  Whenever possible, always try and leverage the service portal to display your custom app.  
 
-5. You are the Expert, Act Like it
+**5. You are the Expert, Act Like it**
 
 You are the ServiceNow admin/developer/architect at your organization for a reason, act like it!  When running your workshops or gathering requirements, don’t always lean on your stakeholders to drive requirements.
 
