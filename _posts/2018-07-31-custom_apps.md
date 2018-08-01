@@ -11,7 +11,7 @@ Before you dive into your custom app development, I wanted to share some of my e
 
 The first piece of the equation is making a smart financial decision about application development.  Let’s say you need to build a simple application for end users to submit requests to the marketing department.
 
-You determine it is going to take 200 hours and you pay your ServiceNow developer $50 per hour.  You determine this will cost your organization $10K to develop and bring to market and an additional $5K per year in support and enhancement requests.  On the other hand, you explore other tools and the cheapest subscription-based model you can find is going to cost your organization $5K per year. 
+You determine it is going to take 200 hours and you pay your ServiceNow developer $50 per hour.  You determine this will cost your organization $10K to develop, and an additional $3K per year in support and enhancement requests.  On the other hand, you explore other tools and the cheapest subscription-based model you can find is going to cost your organization $5K per year. 
 
 This is a simple decision – its more cost effective to build this solution on ServiceNow.
 
