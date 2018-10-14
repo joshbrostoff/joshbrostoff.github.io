@@ -98,7 +98,7 @@ analytics:
 # Site Author
 author:
   name             : "Josh Brostoff"
-  avatar           : "https://github.com/joshbrostoff/joshbrostoff.github.io/blob/master/assets/images/profile.jpg"
+  avatar           : "/assets/images/profile.png""
   bio              : "Senior ServiceNow Developer"
   location         : "Boston, MA"
   email            : "joshbros@gmail.com"
