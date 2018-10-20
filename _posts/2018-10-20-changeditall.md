@@ -43,7 +43,7 @@ You can’t build a world class enterprise platform solution without having an a
 
 While most major SASS companies are known for having poor documentation, and developer engagement training courses, ServiceNow has found a way to change this.  With the ServiceNow community, developers can post questions and have their questions answered within seconds.  
 
-Developer celebrities such as Chuck Tomase, Travis Toulson, Brad Tilton, Mark Stranger and Pradeep Sharma along with many others have played a major role in supporting the developer community and taking the platform to the next level.
+Developer celebrities such as Chuck Tomasi, Travis Toulson, Brad Tilton, Mark Stranger and Pradeep Sharma along with many others have played a major role in supporting the developer community and taking the platform to the next level.
 
 
 The past few years have been a major breakthrough for $NOW – and the rocket ship isn’t showing any signs of slowing down anytime soon.
