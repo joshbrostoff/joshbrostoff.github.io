@@ -35,7 +35,7 @@ The example below demonstrates how we can add a search source for change numbers
 		item.table = 'change_request';
 		//primary field to be displayed
 		item.primary = gr.getDisplayValue('number');
-		item.sys_id = gr.sys_id;
+		item.sys_id = gr.sys_id.toString();
 		results.push(item);
 	}
 
