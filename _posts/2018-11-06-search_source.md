@@ -12,7 +12,7 @@ The example below demonstrates how we can add a search source for change numbers
 
 1. Navigate to Service Portal and select the portal which you want to add a search source to.
 2. Scroll to the bottom of the form and locate the “Search Sources” related list.
-3. Click “New”
+3. Click “New”.
 4. Name your new search source “Change Requests”.
 5. Give your search source a higher order than the OOB search sources.
 6. Make sure you add the necessary roles to the search source so it does not display to end users.
