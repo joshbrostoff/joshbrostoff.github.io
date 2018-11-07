@@ -100,7 +100,7 @@ The example below demonstrates how we can add a search source for change numbers
 
 9. On the typeahead tab, check the “Enable Typeahead” and set the page field to “Form”.  This will leverage the OOB exist form widget.
 
-<a href="/assets/images/ Screen Shot 2018-11-06 at 10.21.41 PM.png
+<a href="/assets/images/Screen Shot 2018-11-06 at 10.21.41 PM.png
 "><img src="/assets/images/Screen Shot 2018-11-06 at 10.21.41 PM.png"></a>
 
 
