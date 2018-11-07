@@ -18,8 +18,6 @@ The example below demonstrates how we can add a search source for change numbers
 6. Make sure you add the necessary roles to the search source so it does not display to end users.
 7. Scroll to the bottom of the form and select the “Is scripted source” checkbox.
 8. In the “Data fetch script”, copy and paste the following code:
-(function(query) {
-  var results = [];
 
 ```javascript
 (function(query) {
