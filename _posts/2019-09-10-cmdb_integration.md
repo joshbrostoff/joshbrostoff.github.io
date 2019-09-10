@@ -51,10 +51,8 @@ Using a data driven solution like this can prevent you from having to update the
 The other major issue I’ve seen with third party CMDB integrations is completely altering a ServiceNow instance to match what a third party application is doing.  To work around having to create dozens of new priorities, status’, categories and subcategories, I used what I call a “Value Conversion table” to get around this.  The concept of this table is to lookup values sent from a third-party system and convert them into “ServiceNow language.”
 
 I created this table with 4 main fields;
--	Direction
-o	Outbound, Inbound
--	Type
-o	Priority, Department, Category, Subcategory, Status, Reason
+-	Direction (Outbound, Inbound)
+-	Type (Priority, Department, Category, Subcategory, Status, Reason)
 -	Key
 -	Value
 
