@@ -14,7 +14,6 @@ This table contained the following fields:
 -	Make 
 -	Model
 -	Resource type
--	Resource type
 -	Class code
 -	OS
 -	Class
