@@ -63,7 +63,7 @@ Similar to the class mapping table, this provides a data driven way to translate
 ```javascript
 	getValueConversion: function(utype,udirection,ukey){
 			var value;
-			var conversionValues = new GlideRecord("u_ _value_conversions");
+			var conversionValues = new GlideRecord("u_value_conversions");
 			conversionValues.addQuery("u_type", utype);
 			conversionValues.addQuery('u_direction', udirection);
 			conversionValues.addQuery('u_key', ukey);
