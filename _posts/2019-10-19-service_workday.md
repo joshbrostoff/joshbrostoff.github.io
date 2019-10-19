@@ -29,8 +29,11 @@ Add all default prompts that are required of web-service-enabled reports. Add ad
 Once you have built out your RaaS, you are now ready to start consuming data from Workday and ingesting it into ServiceNow.  Here is how to do this:
 
 1.	In the HR Core scope, create a new table that extends the import set row table called “Workday Workers Staging” (or whichever table from Workday you are retrieving).
+
 2.	Create the fields on the new staging table which you will be pulling back.
+
 3.	Create a transform map that maps the data from the new table you created (u_workday_workers_staging) to the HR Profiles table (sn_hr_core_profile) table.
+
 4.	Create a new scheduled job that runs a script to call our to the RaaS, parse the JSON, and map the retrieved payload data to your fields on your staging table.  An example of this can be seen in the code snippet below:
 
  
