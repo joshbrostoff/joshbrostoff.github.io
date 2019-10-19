@@ -3,7 +3,7 @@ title: "Integrating ServiceNow and Workday"
 
 ---
 
-Before the Madrid release of ServiceNow, an out of box SOAP integration with Workday was offered.  However, with this pre-built integration now deprecated, a lot of customers are still leveraging the old SOAP integration, and new ones stuck with figuring out how to build a new one.  Truth be told, the days of SOAP integrations are over.  In various ways which I wont dive into here, REST is a far preferred method for building modern SaaS integrations.
+Before the London release of ServiceNow, an out of box SOAP integration with Workday was offered.  However, with this pre-built integration now deprecated, a lot of customers are still leveraging the old SOAP integration, and new ones stuck with figuring out how to build a new one.  Truth be told, the days of SOAP integrations are over.  In various ways which I wont dive into here, REST is a far preferred method for building modern SaaS integrations.
 
 As many ServiceNow customers still look to integrate ServiceNow and Workday for various use cases, I wanted to share my recommended way of building this integration.
 
