@@ -20,7 +20,7 @@ https://wd2-impl-services1.workday.com/ccx/service/customreport2/workato/workato
 4. Filter parameters
 Prompts behave like request parameters. In the UI, it is presented as input fields before generating the actual report.  As a REST endpoint, these prompts are passed as request parameters. To do so, you have to set the report type and configure prompts. You can also define filters for your prompts.
 
-5.Report type
+5. Report type
 Switch to advanced type if not already. Only Advanced custom reports can be used in RaaS.
 
 6. Add prompts
