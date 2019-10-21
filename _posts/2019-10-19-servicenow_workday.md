@@ -14,7 +14,7 @@ Building a RaaS is an extremely easy process that involves no coding and can be 
 
 2. Right-click JSON and choose "Copy URL"
 
-3. JSON endpoint example:https://wd2-impl-services1.workday.com/ccx/service/customreport2/workato/workato/Investors?format=json&Worker_Type!WID=d588c41a446c11de98360015c5e6daf6&Base_Pay=0
+3. JSON endpoint example: https://wd2-impl-services1.workday.com/ccx/service/customreport2/workato/workato/Investors?format=json&Worker_Type!WID=d588c41a446c11de98360015c5e6daf6&Base_Pay=0
 
 4. Filter parameters - Prompts behave like request parameters. In the UI, it is presented as input fields before generating the actual report.  As a REST endpoint, these prompts are passed as request parameters. To do so, you have to set the report type and configure prompts. You can also define filters for your prompts.
 
