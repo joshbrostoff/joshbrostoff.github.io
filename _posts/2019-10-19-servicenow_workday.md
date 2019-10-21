@@ -10,11 +10,11 @@ As many ServiceNow customers still look to integrate ServiceNow and Workday for 
 The first piece of connecting ServiceNow to Workday is to build what is known as a Workday Report-as-a-Service (RaaS).  This is a feature that exposes reports as web services. These reports must be configured as Advanced type reports to be web service enabled.
 Building a RaaS is an extremely easy process that involves no coding and can be built in the matter of minutes.  To start building a RaaS in Workday, navigate to
 
-1.	Find URL in Actions > Web Service > View URLs.
+1. Find URL in Actions > Web Service > View URLs.
 
-2.	Right-click JSON and choose "Copy URL"
+2. Right-click JSON and choose "Copy URL"
 
-3.	JSON endpoint example:
+3. JSON endpoint example:
 
 https://wd2-impl-services1.workday.com/ccx/service/customreport2/workato/workato/Investors?format=json&Worker_Type!WID=d588c41a446c11de98360015c5e6daf6&Base_Pay=0
 
