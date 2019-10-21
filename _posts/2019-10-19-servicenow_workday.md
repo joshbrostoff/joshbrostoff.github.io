@@ -3,7 +3,7 @@ title: "Integrating ServiceNow and Workday"
 
 ---
 
-Before the London release of ServiceNow, an out of box SOAP integration with Workday was offered.  However, with this pre-built integration now deprecated, a lot of customers are still leveraging the old SOAP integration, and new ones stuck with figuring out how to build a new one.  Truth be told, the days of SOAP integrations are over.  In various ways which I wont dive into here, REST is a far preferred method for building modern SaaS integrations.
+Before the London release of ServiceNow, an out of box SOAP integration with Workday was offered.  However, with this pre-built integration now deprecated, a lot of customers are still leveraging the old SOAP integration, and new ones stuck with figuring out how to do this.  Truth be told, the days of SOAP integrations are over.  In various ways which I wont dive into here, REST is a far preferred method for building modern SaaS integrations.
 
 As many ServiceNow customers still look to integrate ServiceNow and Workday for various use cases, I wanted to share my recommended way of building this integration.
 
@@ -19,12 +19,15 @@ Building a RaaS is an extremely easy process that involves no coding and can be 
 https://wd2-impl-services1.workday.com/ccx/service/customreport2/workato/workato/Investors?format=json&Worker_Type!WID=d588c41a446c11de98360015c5e6daf6&Base_Pay=0
 
 4. Filter parameters
+
 Prompts behave like request parameters. In the UI, it is presented as input fields before generating the actual report.  As a REST endpoint, these prompts are passed as request parameters. To do so, you have to set the report type and configure prompts. You can also define filters for your prompts.
 
 5. Report type
+
 Switch to advanced type if not already. Only Advanced custom reports can be used in RaaS.
 
 6. Add prompts
+
 Add all default prompts that are required of web-service-enabled reports. Add additional prompts as desired.
 
 Once you have built out your RaaS, you are now ready to start consuming data from Workday and ingesting it into ServiceNow.  Here is how to do this:
