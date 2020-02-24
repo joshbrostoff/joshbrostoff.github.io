@@ -3,7 +3,7 @@ title: "After Go-Live - Now What?"
 
 ---
 
-So your organization has gone live with ServiceNow.  Now that’s out of the way, what’s next? 
+So your organization has gone live with ServiceNow.  Now that that’s out of the way, what’s next? 
 
 Chances are your organization has just finished a 3-6 month implementation of ServiceNow focusing on ITSM or another major product line.  Although it seems like the hard part is over, maintaining and scaling the platform is an aspect that can’t be ignored.  
 
